@@ -18,7 +18,6 @@ public class ConsumerRunnable implements Runnable{
                 Thread.sleep(4000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
-
             }
         }
     }
